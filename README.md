@@ -1,2 +1,2 @@
-# GSCO-Project-20-
-WH Jr
+# p5.play-boilerplate
+Boiler plate for p5.play
